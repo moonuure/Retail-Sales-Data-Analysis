@@ -22,7 +22,6 @@ The retail sales dataset used in this analysis contains **1000 sales transaction
 
 Using this dataset allowed the project to simulate a **real-world retail business environment** and perform meaningful sales performance analysis.
 
-The dataset contains **1000 retail sales transactions** with multiple business-related attributes.
 
 ### Key Variables
 
