@@ -184,5 +184,5 @@ These findings can help businesses improve **strategic decision-making, sales pe
 
 # Author
 
-Moonuure
+Mohamed Nure (Moonuure)
 Data Scientist
