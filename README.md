@@ -12,6 +12,16 @@ Through **data cleaning, feature engineering, and exploratory data analysis (EDA
 
 # Dataset Description
 
+## Dataset Source
+
+The dataset used in this project was obtained from **Kaggle**, a popular platform for data science and machine learning datasets.
+
+Kaggle provides publicly available datasets that are commonly used for **data analysis practice, machine learning experiments, and research projects**.  
+
+The retail sales dataset used in this analysis contains **1000 sales transaction records** and includes information about product categories, sales representatives, regions, customer types, payment methods, discounts, and sales channels.
+
+Using this dataset allowed the project to simulate a **real-world retail business environment** and perform meaningful sales performance analysis.
+
 The dataset contains **1000 retail sales transactions** with multiple business-related attributes.
 
 ### Key Variables
